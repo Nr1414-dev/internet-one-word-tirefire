@@ -1,0 +1,2 @@
+NO-GO
+Builder entry complete (repo + main.py + owner.json in first commit), awaiting submitter: kit check, Audit Gate v2, then submission per Hadi's explicit decision to submit "tirefire" as-is (mock v5 57.50%, below the 75% bar — lottery entry, Hadi's call).
